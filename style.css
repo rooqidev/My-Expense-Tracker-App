@@ -1,0 +1,9 @@
+body {
+    font-size: 15pt;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
